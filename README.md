@@ -4,7 +4,7 @@ A comprehensive hospital website developed as part of my academic mini project. 
 
 **Project Overview**
 
-This project simulates a real-world hospital management scenario with multiple access roles including patients, receptionists, and administrators. It supports essential features like secure logins, patient records, staff directories, and appointment scheduling — all handled dynamically via PHP and MySQL.
+This project simulates a real-world hospital management scenario with multiple access roles including patients, receptionists, and administrators. It supports essential features like secure logins, patient records, staff directories, and appointment scheduling. 
 
 **Key Features**
 
