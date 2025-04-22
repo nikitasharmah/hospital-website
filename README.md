@@ -1,6 +1,6 @@
 # Hospital Management System
 
-A comprehensive hospital website developed as part of an academic mini project. This system offers an integrated platform for managing patients, appointments, staff, and internal hospital operations through dynamic web interfaces.
+A comprehensive hospital website developed as part of my academic mini project. This system offers an integrated platform for managing patients, appointments, staff, and internal hospital operations through dynamic web interfaces.
 
 **Project Overview**
 
