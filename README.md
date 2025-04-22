@@ -39,7 +39,7 @@ Note: This project uses PHP and must be run in a local server environment like X
 **Project Contributors**
 
 - Nikita Sharma – Frontend Developer  
-  (UI/UX Design, HTML Structure, CSS Styling, Layout Planning)  
+  (UI Design, HTML Structure, CSS Styling, Layout Planning)  
 - Nidhi Shenoy – Backend Developer  
   (PHP Scripting, Database Integration, Login & Session Management)
 
