@@ -52,7 +52,7 @@ Note: This project uses PHP and must be run in a local server environment like X
 
 - `add_patient.php`, `add_patient2.php`, `add_admin_patient.html` – Patient registration forms  
 - `add_patient_pros.php`, `add_patient_pros2.php` – Patient registration processing scripts
-- `update_patient.php`, `update_patient_pros.php`, `delete_patient.php`, `delete_patient_pros.php`–  Patient record modifications  
+- `update_patient.php`, `update_patient_pros.php`, `delete_patient.php`, `delete_patient_pros.php` –  Patient record modifications  
 - `view_appt.php` – View scheduled appointments
 
 **Doctor Management**
