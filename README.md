@@ -52,5 +52,39 @@ Note: This project uses PHP and must be run in a local server environment like X
 **Patient Management**
 
 - `add_patient.php`, `add_patient2.php` – Registration forms  
-- `add_patient_pros.php`, `add_patient_pro
+- `add_patient_pros.php`, `add_patient_pros2.php` – Data handling  
+- `update_patient.php`, `delete_patient.php` – Record modifications  
+- `view_appt.php` – View scheduled appointments
+
+**Doctor Management**
+
+- `doctors.php` – List of doctors  
+- `add_doctor.php`, `update_doctor.php`, `delete_doctor.php` – Doctor data handling
+
+**Receptionist Management**
+
+- `add_recep.php`, `update_recep.php`, `delete_recep.php` – Receptionist operations
+
+**Appointment System**
+
+- `appointment.php`, `add_appt.php`, `delete_appt.php` – Appointment flow
+
+**Billing and Invoices**
+
+- `view_invoice.php` – Invoice generation and display
+
+**Query Handling**
+
+- `ins_query.php`, `ins_query_pros.php` – Contact form backend
+
+**Media Assets**
+
+- `/images/` – Contains logos, icons, and UI images
+
+**Disclaimer**
+
+This project was created solely for academic purposes to demonstrate core web development concepts in a real-world simulation. It does not contain or represent any actual patient data or healthcare workflows.
+
+Feel free to clone, fork, or extend this project for educational exploration.
+
 
