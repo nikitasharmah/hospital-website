@@ -10,8 +10,7 @@ This project simulates a real-world hospital management scenario with multiple a
 
 - Patient sign-up with auto-generated ID  
 - Doctor directory and appointment scheduling  
-- Secure login panels for admins and receptionists  
-- CRUD operations for patients, doctors, and staff  
+- Secure login panels for admins and receptionists to add/update/delete records 
 - Contact form for patient queries  
 - Modular frontend using HTML and CSS  
 - Server-side scripting with PHP and MySQL  
